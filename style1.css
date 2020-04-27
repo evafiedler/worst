@@ -1,0 +1,30 @@
+span{
+    display: inline;
+    background: gold;
+}
+
+body{
+    background: darkgoldenrod;
+}
+
+img{
+    margin: 30px;
+}
+
+#shark1{
+    height: 300px;
+}
+
+#shark2{
+    height: 250px;
+}
+
+#shark3{
+    height: 200px;
+}
+
+#div{
+    position: absolute;
+    font-size: large;
+    color: greenyellow;
+}
